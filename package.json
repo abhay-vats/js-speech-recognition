@@ -1,10 +1,10 @@
 {
-  "name": "speech-recognition",
+  "name": "js-speech-recognition",
   "version": "1.0.0",
   "description": "",
-  "main": "colors.js",
   "scripts": {
-    "start": "parcel index.html"
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "author": "",
   "license": "ISC",
